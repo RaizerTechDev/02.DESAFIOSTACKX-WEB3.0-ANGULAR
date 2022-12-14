@@ -1,4 +1,3 @@
-
 # Olá  <img src="https://media.giphy.com/media/l1J9sBOqBIvnafnUc/giphy.gif" align="center" width="85">
 
 ***
