@@ -1,27 +1,103 @@
-# 02DESAFIOSTACKXWEB30ANGULAR
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.3.
+# Olá  <img src="https://media.giphy.com/media/l1J9sBOqBIvnafnUc/giphy.gif" align="center" width="85">
 
-## Development server
+***
+# <img src="https://media.giphy.com/media/XwcRflO9HD0Sk6RaRM/giphy.gif" align="center" height="25" width="55"> Venho aqui apresentar <img src="https://media.giphy.com/media/LmqitTYGsNMiWu3VWO/giphy.gif" align="center" width="65">
+# DESAFIO WEB 3.0 STACKX
+## Vão ser lançados 03 projetos que fazem parte do Módulo Web 3.0 do Curso StackX - Formação de Desenvolvedores de Software. 
+##  Requisitos para o Desafio:
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+1) A lista de tecnologias deve ser um array onde no HTML você irá fazer um map para listar;
 
-## Code scaffolding
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+2) Ao clicar no botão de linguagem o texto de apresentação ”Olá meu nome....” muda para a linguagem selecionada;
 
-## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+3) O botão de linguagem deve ser um componente onde você passará 3 propriedades: Título, ícone e o click dele;
 
-## Running unit tests
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+4) Para estilização 
+- React use Styled Components
+- Angular use Saas 
+- Vue use Tailwind CSS
 
-## Running end-to-end tests
+***
+# Suas aplicações vão ser:
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+<img style="width: 100px" alt="React" src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif"> <img style="width: 100px" alt="Angular" src="https://media.giphy.com/media/XEDIHHp3i8bVoEdxd7/giphy.gif"> <img style="width: 100px" alt="Vue.js" src="https://media.giphy.com/media/VgGthkhUvGgOit7Y9i/giphy.gif">
 
-## Further help
+***
+# <img src="https://media.giphy.com/media/eBqEQyWGdgSNgRVLCV/giphy.gif" align="center" height="95" width="95"> Ferramenta Do Desafio⁉
+<img style="width: 80px" alt="VSCode" src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif">
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+***
+## <img src="https://media.giphy.com/media/JO9WCVmDMbC0eLSlyV/giphy.gif" align="center" height="70" width="70"> &nbsp;Linguagem Tecnológica do Desafio:
+<img style="width: 80px" alt="TypeScript" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png">
+
+***
+# 2º Desafio <img src="https://media.giphy.com/media/XwcRflO9HD0Sk6RaRM/giphy.gif" align="center" height="25" width="55"> ANGULAR
+
+<br>
+
+Este projeto foi gerado com o Angular CLI versão 15.0.3 e o sistema SASS que é uma linguagem de extensão do CSS, tornando o processo de desenvolvimento mais simples e eficiente.
+
+<br>
+
+  ### <div align="center">[Clique aqui para acessar o Projeto](https://rafarz76dev-02-desafiostackx-web-3-0-angular.vercel.app/)
+
+***
+   <img src="ProjetoWeb3.0 Angular.png" align="center" height="500em" width="100%" href="https://rafarz76dev-02-desafiostackx-web-3-0-angular.vercel.app/">
+   
+ ***
+ # Passo a Passo do Projeto:
+   
+   ## Instalando no ```terminal power shell``` como administrador para o projeto em angular:
+  
+### 1º Executar o comando CLI usando o npm gerenciador de pacotes e clica com botão direito em administrador, ao abrir digita:
+- ```npm install -g @angular/cli  ```
+
+### 2º Para criar, construir e servir um novo projeto Angular básico em um servidor de desenvolvimento, vá para o diretório (pasta) que criou no seu espaço de trabalho e use o seguinte comando👇
+- ```ng new nome do projeto ( ex. projetoangular-web3.0)  ```
+
+### <img src="https://media.giphy.com/media/XwcRflO9HD0Sk6RaRM/giphy.gif" align="center" height="25" width="25"> Quando perguntar digita:  - ```y ```
+
+### <img src="https://media.giphy.com/media/XwcRflO9HD0Sk6RaRM/giphy.gif" align="center" height="25" width="25">Escolhe a estilização `` `Sass``` e dá ```Enter```
+
+### Aguarda a instalação dos pacotes no projeto,
+
+### <img src="https://media.giphy.com/media/XwcRflO9HD0Sk6RaRM/giphy.gif" align="center" height="25" width="25">E altera copiando e colando para a pasta do projeto que foi criado antes de abrir no VSCode com o comando.
+```cd nomepastaprojeto```
+
+### 3ºAgora sim vai Abrir o Projeto no Terminal para a ferramenta VSCode, digitando 👊
+```code .```
+
+   ## Dentro do editor de código VSCode:
+
+### Executar o projeto no servidor digitando:
+```ng serve```
+### <img src="https://media.giphy.com/media/XwcRflO9HD0Sk6RaRM/giphy.gif" align="center" height="25" width="25"> Vai compilar na porta `http://localhost:4200/`. 
+
+### Criando component:
+- ```ng g c```
+
+<img src="https://media.giphy.com/media/XwcRflO9HD0Sk6RaRM/giphy.gif" align="center" height="25" width="25"> O componente é composto por 3 arquivos, para template (HTML), estilo (SASS) e classe (TS) e toda essa configuração é feita dentro do decorador @Component onde é passado como metadados o template, o estilo e um seletor para que este componente possa ser usado em outro template.
+
+### Criando module:
+- ```ng g m```
+
+<img src="https://media.giphy.com/media/XwcRflO9HD0Sk6RaRM/giphy.gif" align="center" height="25" width="25"> É uma classe marcada pelo decorador. recebe um objeto de metadados que descreve como compilar o modelo de um componente e como criar um injetor em tempo de execução.
+
+### Bibliotecas importadas no terminal do VSCode👇  
+- ```ng add @angular/material```
+
+<img src="https://media.giphy.com/media/XwcRflO9HD0Sk6RaRM/giphy.gif" align="center" height="25" width="25"> Inclui informações sobre pré-requisitos, instalação do Angular Material e, opcionalmente, exibição de um componente Material de amostra em seu aplicativo para verificar sua configuração.
+  
+### Implementando Build
+- ```ng build```
+
+<img src="https://media.giphy.com/media/XwcRflO9HD0Sk6RaRM/giphy.gif" align="center" height="25" width="25"> Execute 'ng build' para compilar o projeto. Os artefatos de compilação serão armazenados no diretório 'dist/'.
+
+***
+### ▶ 😀👀 Bora lá....
+
+### Gostou, então já deixa a 🌟
