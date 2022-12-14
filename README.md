@@ -45,7 +45,7 @@ Este projeto foi gerado com o Angular CLI versão 15.0.3 e o sistema SASS que é
   ### <div align="center">[Clique aqui para acessar o Projeto](https://rafarz76dev-02-desafiostackx-web-3-0-angular.vercel.app/)
 
 ***
-   <img src="ProjetoWeb3.0 Angular.png" align="center" height="500em" width="100%" href="https://rafarz76dev-02-desafiostackx-web-3-0-angular.vercel.app/">
+   <img src="ProjetoWeb3.0-Angular.png" align="center" height="500em" width="100%" href="https://rafarz76dev-02-desafiostackx-web-3-0-angular.vercel.app/">
    
  ***
  # Passo a Passo do Projeto:
