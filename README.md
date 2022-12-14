@@ -17,7 +17,7 @@
 
 4) Para estilização 
 - React use Styled Components
-- Angular use Saas 
+- Angular use Sass 
 - Vue use Tailwind CSS
 
 ***
@@ -95,6 +95,10 @@ Este projeto foi gerado com o Angular CLI versão 15.0.3 e o sistema SASS que é
 - ```ng build```
 
 <img src="https://media.giphy.com/media/XwcRflO9HD0Sk6RaRM/giphy.gif" align="center" height="25" width="25"> Execute 'ng build' para compilar o projeto. Os artefatos de compilação serão armazenados no diretório 'dist/'.
+  
+  ### Criando o módulo de rotas
+  
+ <img src="https://media.giphy.com/media/XwcRflO9HD0Sk6RaRM/giphy.gif" align="center" height="25" width="25"> Em nossa aplicação é um arquivo de módulo das rotas e importá-lo posteriormente no Root Module. Este arquivo de rotas, normalmente chamado app-routing.module.ts
 
 ***
 ### ▶ 😀👀 Bora lá....
