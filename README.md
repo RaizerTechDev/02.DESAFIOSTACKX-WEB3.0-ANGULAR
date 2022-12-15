@@ -50,7 +50,7 @@ Este projeto foi gerado com o Angular CLI versão 15.0.3 e o sistema SASS que é
  ***
  # Passo a Passo do Projeto:
    
-   ## Instalando no ```terminal power shell``` como administrador para o projeto em angular:
+   ## Instalando no ```terminal power shell``` clicando no botão direito como administrador para o projeto em angular <img src="https://media.giphy.com/media/HPzNBFdTh8sxhqNdpX/giphy.gif" align="center" height="30" width="25">
   
 ### 1º Executar o comando CLI usando o npm gerenciador de pacotes e clica com botão direito em administrador, ao abrir digita:
 - ```npm install -g @angular/cli  ```
