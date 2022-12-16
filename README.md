@@ -67,7 +67,7 @@ Este projeto foi gerado com o Angular CLI versão 15.0.3 e o sistema SASS que é
 ### <img src="https://media.giphy.com/media/XwcRflO9HD0Sk6RaRM/giphy.gif" align="center" height="25" width="25">E altera copiando e colando para a pasta do projeto que foi criado antes de abrir no VSCode com o comando.
 ```cd nomepastaprojeto```
 
-### 3ºAgora sim vai Abrir o Projeto no Terminal para a ferramenta VSCode, digitando 👊
+### 3º Agora sim vai Abrir o Projeto no Terminal para a ferramenta VSCode, digitando 👊
 ```code .```
 
    ## Dentro do editor de código VSCode:
