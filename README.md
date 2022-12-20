@@ -3,7 +3,7 @@
 ***
 # <img src="https://media.giphy.com/media/XwcRflO9HD0Sk6RaRM/giphy.gif" align="center" height="25" width="55"> Venho aqui apresentar <img src="https://media.giphy.com/media/LmqitTYGsNMiWu3VWO/giphy.gif" align="center" width="65">
 # DESAFIO WEB 3.0 STACKX
-## Vão ser lançados 03 projetos que fazem parte do Módulo Web 3.0 do Curso StackX - Formação de Desenvolvedores de Software. 
+## Lançados 03 projetos que fazem parte do Módulo Web 3.0 do Curso StackX - Formação de Desenvolvedores de Software. 
 ##  Requisitos para o Desafio:
 
 1) A lista de tecnologias deve ser um array onde no HTML você irá fazer um map para listar;
