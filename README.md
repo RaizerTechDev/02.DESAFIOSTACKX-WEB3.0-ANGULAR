@@ -103,4 +103,4 @@ Este projeto foi gerado com o Angular CLI versão 15.0.3 e o sistema SASS que é
 ***
 ### ▶ 😀👀 Bora lá....
 
-### Gostou, então já deixa a 🌟
+### Gostou, então já clica na 🌟
